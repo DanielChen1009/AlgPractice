@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57abd7f2-805d-4955-a3d1-d8d4dd46c9c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VHWI2Oi1TImzUJ5vYalS10FcRM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.danielchen.Main" />
+      <module name="Fractions" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\danielchen\Desktop\Fractions\src\com\danielchen\Associations.txt C:\Users\danielchen\Desktop\Fractions\src\com\danielchen\Outputs.txt" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="70" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576916000583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="70" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576916000583" />
+    <state x="395" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576915951072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1576915951072" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1576917228653">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576917228653" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1576917228653">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576917228653" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1576917228652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576917228652" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1576917228653">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576917228653" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1576917228641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576917228641" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1576917228641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576917228641" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1576917228641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576917228641" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1576917228641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576917228641" />
+    <state x="338" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576910425751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="338" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576910425751" />
+    <state x="287" y="0" key="new project wizard" timestamp="1576917226562">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="287" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1576917226562" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/danielchen/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
